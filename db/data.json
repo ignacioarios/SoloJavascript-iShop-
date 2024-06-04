@@ -1,0 +1,79 @@
+[
+    {
+        "img":"",
+        "id": 1,
+        "nombre": "Iphone 13 128GB",
+        "alt": "Iphone13",
+        "precio": 650
+    },
+    {
+        "img":"",
+        "id": 2,
+        "nombre": "Iphone 13  Pro 128GB",
+        "alt": "Iphone13pro",
+        "precio": 650
+    },
+    {
+        "img":"",     
+        "id": 3,
+        "nombre": "Iphone 13 Pro Max 128GB",
+        "alt": "Iphone13promax",
+        "precio": 650
+    },
+    {
+        "img":"",
+        "id": 4,
+        "nombre": "Iphone 14 128GB",
+        "alt": "Iphone14",
+        "precio": 650
+    },
+    {
+        "img":"",
+        "id": 5,
+        "nombre": "Iphone 14 Pro 128GB",
+        "alt": "Iphone14pro",
+        "precio": 650
+    },
+    {
+        "img":"",
+        "id": 6,
+        "nombre": "Iphone 14 Pro Max 128GB",
+        "alt": "Iphone14promax",
+        "precio": 650
+    },
+    {
+        "img":"",
+        "id": 7,
+        "nombre": "Iphone 15 128GB",
+        "alt": "Iphone15",
+        "precio": 650
+    },
+    {
+        "img":"",
+        "id": 8,
+        "nombre": "Iphone 15 Pro 128GB",
+        "alt": "Iphone15pro",
+        "precio": 650
+    },
+    {
+        "img":"",
+        "id": 9,
+        "nombre": "Iphone 15 Pro Max 256GB",
+        "alt": "Iphone15promax",
+        "precio": 650
+    },
+    {
+        "img":"",
+        "id": 10,
+        "nombre": "Funda+Glass",
+        "alt": "funda+glass",
+        "precio": 25
+    },
+    {
+        "img":"",
+        "id": 11,
+        "nombre": "Cargador tipo C + USB",
+        "alt": "Cargador",
+        "precio": 50
+    }
+]
