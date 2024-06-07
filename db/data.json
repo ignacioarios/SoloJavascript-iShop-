@@ -1,76 +1,76 @@
 [
     {
-        "img":"",
+        "img":"../img/iphone_13.webp",
         "id": 1,
         "nombre": "Iphone 13 128GB",
         "alt": "Iphone13",
         "precio": 650
     },
     {
-        "img":"",
+        "img":"../img/iphone_13_Pro.webp",
         "id": 2,
-        "nombre": "Iphone 13  Pro 128GB",
+        "nombre": "Iphone 13 Pro 128GB",
         "alt": "Iphone13pro",
         "precio": 650
     },
     {
-        "img":"",     
+        "img":"../img/iphone13_promax.webp",     
         "id": 3,
         "nombre": "Iphone 13 Pro Max 128GB",
         "alt": "Iphone13promax",
         "precio": 650
     },
     {
-        "img":"",
+        "img":"../img/iPhone14.webp",
         "id": 4,
         "nombre": "Iphone 14 128GB",
         "alt": "Iphone14",
         "precio": 650
     },
     {
-        "img":"",
+        "img":"../img/iPhone14_Pro.webp",
         "id": 5,
         "nombre": "Iphone 14 Pro 128GB",
         "alt": "Iphone14pro",
         "precio": 650
     },
     {
-        "img":"",
+        "img":"../img/iPhone14_Promax.webp",
         "id": 6,
         "nombre": "Iphone 14 Pro Max 128GB",
         "alt": "Iphone14promax",
         "precio": 650
     },
     {
-        "img":"",
+        "img":"../img/iPhone15.webp",
         "id": 7,
         "nombre": "Iphone 15 128GB",
         "alt": "Iphone15",
         "precio": 650
     },
     {
-        "img":"",
+        "img":"../img/iPhone15_Pro.webp",
         "id": 8,
         "nombre": "Iphone 15 Pro 128GB",
         "alt": "Iphone15pro",
         "precio": 650
     },
     {
-        "img":"",
+        "img":"../img/iPhone15_Promax.webp",
         "id": 9,
         "nombre": "Iphone 15 Pro Max 256GB",
         "alt": "Iphone15promax",
         "precio": 650
     },
     {
-        "img":"",
+        "img":"../img/funda_glass.webp",
         "id": 10,
         "nombre": "Funda+Glass",
         "alt": "funda+glass",
         "precio": 25
     },
     {
-        "img":"",
+        "img":"../img/cargadortipoc.webp",
         "id": 11,
         "nombre": "Cargador tipo C + USB",
         "alt": "Cargador",
