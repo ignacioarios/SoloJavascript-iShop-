@@ -13,7 +13,7 @@ if (!validUser){
     });
 }
 Swal.fire({
-    title: `bienvenido ${validUser.name}`,
+    title: "bienvenido ${validUser.name}",
     text: "gracias por su confianza",
     icon: "success"
 });
