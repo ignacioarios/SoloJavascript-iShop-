@@ -4,12 +4,11 @@ body {
   display: flex;
   justify-content: space-between;
 }
-
-.products-container {
-  width: 60%;
+.img{
+  max-width: 300px;
 }
-
 .product-card {
+  width: 100%;
   display: flex;
   justify-content: space-between;
   align-items: center;

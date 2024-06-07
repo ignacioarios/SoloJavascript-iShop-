@@ -12,7 +12,7 @@ fetch("./db/data.json")
             const card = document.createElement("div");
             card.className = "product-card";
             card.innerHTML = `
-            <img src=${producto.img} alt=${producto.alt}></img>
+            <img class= "img "src=${producto.img} alt=${producto.alt}></img>
                 <h3>${producto.nombre}</h3>
                 <p>${producto.precio}$USD</p>
                 <div>
