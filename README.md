@@ -8,6 +8,7 @@ No llame a una base de datos de users utilizando fetch para esto, por eso:
 5 -> Cada producto tiene para "sumar" o "restar" una unidad del mismo en el carrito.
 (Aqui deberia perfeccionar la pagina con mas tiempo y que en el carrito aparezca el item con la opcion de eliminarlo desde ahi, no desde el listado)
 6 -> El carrito enseña el monto con el total y cuando presiona "Realizar compra" se almacena.
+Para no utilizar console.log ni alert utilice sweet alert 2.
 
 Cosas a mejorar:
 -Styles desde el vamos
