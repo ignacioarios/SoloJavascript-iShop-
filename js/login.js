@@ -12,6 +12,7 @@ if (!validUser){
         icon: "error"
     });
 }
+else 
 Swal.fire({
     title: "bienvenido ${validUser.name}",
     text: "gracias por su confianza",
