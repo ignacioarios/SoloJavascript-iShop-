@@ -9,12 +9,20 @@ signupForm.addEventListener('submit', (e) => {
     const Users = JSON.parse(localStorage.getItem('users')) || []
     const isuserregistered = Users.find(user => user.email === email)
     if (isuserregistered) {
-        return alert("el usuario ya esta registrado")
+        return Swal.fire({
+            title: "el email ya esta registrado",
+            text: "intente nuevamente",
+            icon: "error"
+        });
     }
 
     Users.push({name: name, email: email, password: password})
     localStorage.setItem('users', JSON.stringify(Users))
-    alert(`exitoso`)
+    Swal.fire({
+        title: "Hola! Bienvenido",
+        text: "Gracias por su confianza",
+        icon: "success"
+    });
     window.location.href = "../pages/login.html"
 })
  
