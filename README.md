@@ -1,16 +1,35 @@
-Hola! Les presento iShop SF 
-Por el momento solamente funciona con amor.. jajaja
-1 -> Cuando uno ingresa, si no esta logeado lo lleva automaticamente a la pestaña "LOGIN"
-No llame a una base de datos de users utilizando fetch para esto, por eso:
-2 -> Uno debe crear una cuenta, la cual se almacena en el LOCALSTORAGE.
-3 -> Una vez creada la cuenta en "SIGNUP", lo lleva automaticamente a la pestaña "INDEX"
-4 -> Aqui mostramos el listado de productos en database, llamandolo con el fetch.
-5 -> Cada producto tiene para "sumar" o "restar" una unidad del mismo en el carrito.
-(Aqui deberia perfeccionar la pagina con mas tiempo y que en el carrito aparezca el item con la opcion de eliminarlo desde ahi, no desde el listado)
-6 -> El carrito enseña el monto con el total y cuando presiona "Realizar compra" se almacena.
-Para no utilizar console.log ni alert utilice sweet alert 2.
+# iShop SF
 
-Cosas a mejorar:
--Styles desde el vamos
--Añadir versatilidad al carrito
--
+¡Hola! Les presento **iShop SF**. Por el momento, el sistema funciona con amor... ¡jajaja!
+
+## Funcionalidades
+
+1. **Inicio de Sesión**: 
+   - Cuando un usuario ingresa, si no está logueado, es redirigido automáticamente a la pestaña "LOGIN".
+   - No se llama a una base de datos de usuarios utilizando `fetch` para este propósito.
+
+2. **Registro de Usuario**: 
+   - Los usuarios deben crear una cuenta, la cual se almacena en el `LOCALSTORAGE`.
+
+3. **Redirección Automática**: 
+   - Una vez creada la cuenta en "SIGNUP", el usuario es redirigido automáticamente a la pestaña "INDEX".
+
+4. **Listado de Productos**: 
+   - En la pestaña "INDEX", se muestra el listado de productos almacenados en la base de datos, que se obtiene mediante `fetch`.
+
+5. **Carrito de Compras**: 
+   - Cada producto tiene botones para "sumar" o "restar" unidades en el carrito.
+   - Se podría mejorar la página con más tiempo para que el carrito muestre el item con la opción de eliminarlo directamente desde allí, en lugar de hacerlo desde el listado.
+
+6. **Realizar Compra**: 
+   - El carrito muestra el monto total y, al presionar "Realizar compra", se almacena la información.
+   - Para evitar el uso de `console.log` y `alert`, se utilizó **SweetAlert2** para las notificaciones.
+
+## Cosas a Mejorar
+
+- Mejorar los estilos desde el principio.
+- Añadir versatilidad al carrito de compras.
+
+---
+
+¡Espero que disfruten usando **iShop SF**! Si tienes sugerencias o comentarios, no dudes en compartirlos.
